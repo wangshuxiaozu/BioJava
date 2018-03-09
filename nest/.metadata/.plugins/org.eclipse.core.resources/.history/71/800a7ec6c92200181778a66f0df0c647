@@ -1,0 +1,6 @@
+
+public class DogGame {
+       public static void main() {
+    	   System.out.println("I'm role!!!");
+       }
+}

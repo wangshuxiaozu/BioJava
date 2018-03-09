@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1520573710289_1" label="thishome" name="thishome">
+<item elementID="=BioJava" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1520573730689_2" label="dsgsfd" name="dsgsfd">
+<item elementID="=BioJava" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1514638894929_0" label="Window Working Set" name="Aggregate for window 1514638894928"/>
+<mruList name="dsgsfd"/>
+<mruList name="thishome"/>
+</workingSetManager>

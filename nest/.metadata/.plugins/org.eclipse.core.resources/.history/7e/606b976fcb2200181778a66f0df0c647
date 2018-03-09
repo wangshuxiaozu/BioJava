@@ -1,0 +1,11 @@
+
+public class DogGame {
+	void Dog(String size,String name) {
+		void play() {
+			System.out.println("the dog turn around!")
+		}
+	}
+       public static void main(String[] args) {
+    	   System.out.println("I'm role!!!");
+       }
+}

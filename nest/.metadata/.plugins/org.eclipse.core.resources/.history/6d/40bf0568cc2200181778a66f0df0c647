@@ -1,0 +1,35 @@
+class Dog{
+	private int size;
+	private String name;
+	public Dog(String name2, int size2) {
+		name=name2;
+		size=size2;
+	}
+	void show() {
+		System.out.println("name:"+name);
+		System.out.println("size:"+size);
+	}
+	void play() {
+		System.out.println("the name is "+name+"'s dog turn around!!");
+	}
+	void bark(int num) {
+		int i;
+		for(i=0;i<num;i++) {
+			System.out.print("汪！！");
+		}
+	}
+}
+public class DogGame {
+       public static void main(String[] args) {
+    	   System.out.println("I'm role!!!");
+    	   int size=27;
+    	   String name="Fido";
+    	   Dog myDog=new Dog(name,size);
+    	   int x=size-5;
+    	   if(x<15)
+    		   myDog.bark(8);
+    	   while(x>3) {
+    		   myDog.play();
+    	   }
+       }
+}
